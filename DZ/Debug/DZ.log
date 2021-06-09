@@ -1,0 +1,10 @@
+﻿  DZ.cpp
+  phonBook.cpp
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.h(39,10): error C2535: phonBook::phonBook(std::string,std::string,std::string,std::string,std::string): функция-член уже определена или объявлена
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.h(36): message : см. объявление "phonBook::phonBook"
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.h(46,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.h(46,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.h(46,36): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.h(43,1): error C2612: недопустимый завершающий ":" в списке инициализации членов и базовых классов
+C:\Users\Georgiy_PC\Desktop\DS\DZ\DZ\phonBook.cpp(2,1): fatal error C1004: непредвиденное обнаружение конца файла
+  Создание кода...
